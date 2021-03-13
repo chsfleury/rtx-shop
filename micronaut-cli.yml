@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: fr.chsfleury
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, assertj, graalvm, gradle, http-client, jdbc-hikari, junit, kotlin, kotlin-application, logback, mysql, netty-server, readme, shade, testcontainers, yaml]
